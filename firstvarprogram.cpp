@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    int MyVar = 15;
-    cout << MyVar;
+    int Age = 30;
+    cout << "I am " << Age << " years old.";
 }

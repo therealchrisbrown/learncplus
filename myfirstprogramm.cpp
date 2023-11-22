@@ -1,3 +1,7 @@
+/*Das ist ein erstes Programm, um 'Hello World!'
+auszugeben.
+*/
+
 #include <iostream>
 using namespace std;
 
